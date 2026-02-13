@@ -10,6 +10,7 @@ Click the button below to launch the notebook in Google Colab:
 ---
 
 📖 What We Are Covering
+
 In this introductory lab, we are moving from "Zero to AI-ready" by mastering the fundamentals of Python interaction. We will cover:
 
 * Python Execution: Learning how to trigger the Python interpreter using the Play button in a cloud environment.

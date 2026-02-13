@@ -12,15 +12,11 @@ Click the button below to launch the notebook in Google Colab:
 📖 What We Are Covering
 In this introductory lab, we are moving from "Zero to AI-ready" by mastering the fundamentals of Python interaction. We will cover:
 
-Python Execution: Learning how to trigger the Python interpreter using the Play button in a cloud environment.
-
-Strings & Data Types: Understanding how computers handle human language (Text vs. Strings) using quotes.
-
-Variables & Assignment: Using the = operator to store data in "containers" for later use.
-
-The Print Function: Invoking your first Python function, print(), to output data from the computer's memory to your screen.
-
-Cell Management: Learning how to expand your notebook by adding and running new code blocks.
+* Python Execution: Learning how to trigger the Python interpreter using the Play button in a cloud environment.
+* Strings & Data Types: Understanding how computers handle human language (Text vs. Strings) using quotes.
+* Variables & Assignment: Using the = operator to store data in "containers" for later use.
+* The Print Function: Invoking your first Python function, print(), to output data from the computer's memory to your screen.
+* Cell Management: Learning how to expand your notebook by adding and running new code blocks.
 
 ---
 

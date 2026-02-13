@@ -9,33 +9,40 @@ Click the button below to launch the notebook in Google Colab:
 
 ---
 
-### 📖 What We Are Covering
-In this notebook, we will explore:
-* **Topic 1:** [e.g., Setting up the environment]
-* **Topic 2:** [e.g., Data cleaning techniques]
-* **Topic 3:** [e.g., Building the final model]
+📖 What We Are Covering
+In this introductory lab, we are moving from "Zero to AI-ready" by mastering the fundamentals of Python interaction. We will cover:
+
+Python Execution: Learning how to trigger the Python interpreter using the Play button in a cloud environment.
+
+Strings & Data Types: Understanding how computers handle human language (Text vs. Strings) using quotes.
+
+Variables & Assignment: Using the = operator to store data in "containers" for later use.
+
+The Print Function: Invoking your first Python function, print(), to output data from the computer's memory to your screen.
+
+Cell Management: Learning how to expand your notebook by adding and running new code blocks.
 
 ---
 
 ### 🛠 Prerequisites
 * A Google Account (to use Colab).
-* (Optional) Any specific datasets used in this notebook are hosted in this repository and will be loaded automatically via the code cells.
+* (Optional) Any specific files used in this notebook are hosted in this repository and will be loaded automatically via the code cells.
 
 ---
 
 ### ⚖️ Intellectual Property & Terms of Use
 **Personal Use Only:**
-This material is provided exclusively for students of **[Your Name/Organization]**. 
+This material is provided exclusively for students of **TrainDoc AI**. 
 
 **Attribution:**
-Parts of this code and educational content are adapted from the course **"[Original Paid Course Name]"** by **[Original Creator/Company]**. All original rights to that content belong to the respective copyright holders.
+Parts of this code and educational content are adapted from the module **"Smart PDF Bleaching: Fix Yellowing, Stains, and Scan Shadows with Python"** by **TrainDoc AI**. All original rights to that content belong to the respective copyright holders.
 
 **Restrictions:**
 * **No Redistribution:** You may not redistribute, republish, or sell any part of this notebook.
 * **No Public Posting:** Please do not post solutions or modified versions of this notebook to public websites or other repositories.
-* **All Rights Reserved:** Except where original course copyrights apply, the modifications and instructional text are copyright © 2024 [Your Name].
+* **All Rights Reserved:** Except where original module copyrights apply, the modifications and instructional text are copyright © 2026 TrainDoc AI..
 
 ---
 
 ### 📩 Support
-If you run into any "Runtime" errors or have trouble loading the data, please reach out via [Your Email/Course Platform].
+If you run into any "Runtime" errors or have trouble loading the data, please reach out via learn@traindocai.com

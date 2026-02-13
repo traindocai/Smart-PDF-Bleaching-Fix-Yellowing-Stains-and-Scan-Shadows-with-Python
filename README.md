@@ -3,6 +3,7 @@
 ### 🚀 Get Started
 
 Click the file below to access the notebook:
+
 [Smart_PDF_Bleaching_Fix_Yellowing,_Stains,_and_Scan_Shadows_with_Python.ipynb](Smart_PDF_Bleaching_Fix_Yellowing,_Stains,_and_Scan_Shadows_with_Python.ipynb)
 
 Once the file opens, click the **Open in Colab** badge at the top!

@@ -29,7 +29,8 @@ In this introductory lab, we are moving from "Zero to AI-ready" by mastering the
 
 ### ⚖️ Intellectual Property & Terms of Use
 **Personal Use Only:**
-This material is provided exclusively for students of **TrainDoc AI**. 
+This material is provided exclusively for students of **TrainDoc AI**.
+
 Link: https://traindocai.com/
 
 **Attribution:**

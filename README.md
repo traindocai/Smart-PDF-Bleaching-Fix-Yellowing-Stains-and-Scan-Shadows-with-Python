@@ -1,9 +1,11 @@
 # Smart-PDF-Bleaching-Fix-Yellowing-Stains-and-Scan-Shadows-with-Python
 
 ### 🚀 Get Started
-Click the button below to launch the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
+Click the file below to access the notebook:
+[Smart_PDF_Bleaching_Fix_Yellowing,_Stains,_and_Scan_Shadows_with_Python.ipynb](Smart_PDF_Bleaching_Fix_Yellowing,_Stains,_and_Scan_Shadows_with_Python.ipynb)
+
+Once the file opens, click the **Open in Colab** badge at the top!
 
 > **IMPORTANT:** Once the notebook opens, go to **File > Save a copy in Drive**. If you do not save a copy, your progress and changes will not be saved to your personal account.
 

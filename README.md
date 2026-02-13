@@ -29,7 +29,8 @@ In this introductory lab, we are moving from "Zero to AI-ready" by mastering the
 
 ### ⚖️ Intellectual Property & Terms of Use
 **Personal Use Only:**
-This material is provided exclusively for students of **TrainDoc AI**. Link: https://traindocai.com/
+This material is provided exclusively for students of **TrainDoc AI**. 
+Link: https://traindocai.com/
 
 **Attribution:**
 Parts of this code and educational content are adapted from the module **"Smart PDF Bleaching: Fix Yellowing, Stains, and Scan Shadows with Python"** by **TrainDoc AI**. All original rights to that content belong to the respective copyright holders.

@@ -44,7 +44,7 @@ Link https://traindocai.com/courses-page/smart-pdf-bleaching-fix-yellowing-stain
 **Restrictions:**
 * **No Redistribution:** You may not redistribute, republish, or sell any part of this notebook.
 * **No Public Posting:** Please do not post solutions or modified versions of this notebook to public websites or other repositories.
-* **All Rights Reserved:** Except where original course copyrights apply, the modifications and instructional text are copyright © 2026 TrainDoc AI..
+* **All Rights Reserved:** Except where original course copyrights apply, the modifications and instructional text are copyright © 2026 TrainDoc AI.
 
 ---
 
